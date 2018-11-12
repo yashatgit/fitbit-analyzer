@@ -15,5 +15,5 @@ The Data grabber creates an excel based database and dumps the data from the fit
 This is a sample screenshot of a typical data grab session.
 
 The Jupyter notebook serves a playground to apply data science on top of this database and extracts some interesting insights.
-[](data/ss/fb_activity.png)
-[](data/ss/fb_sleep.png)
+![](data/ss/fb_activity.png)
+![](data/ss/fb_sleep.png)
